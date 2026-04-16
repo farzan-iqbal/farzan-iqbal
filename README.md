@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Farzan Iqbal 👋
+### Cloud Data Engineer & CS Student
 
-<!--
-**farzan-iqbal/farzan-iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Cloud Data Engineer passionate about building scalable data architectures, automating ETL pipelines, and turning raw data into optimized, high-performance solutions.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying B.S. Computer Science (In Progress) at Ilma University.
+- 🔭 I’m currently working on building robust data pipelines, cloud data warehouses, and automated workflows.
+- 🏆 Achievements: 2x Snowflake Badges & Saylani Hackathon (Coding Night-2025) Participant.
+- ⚡ Focus: Cloud Data Engineering, Data Warehousing, and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Programming & Querying:** Python, SQL
+* **Data Warehousing & Cloud:** Snowflake, AWS
+* **Containerization & Automation:** Docker, Apache Airflow
+* **Libraries & Tools:** Pandas, Selenium, NumPy
+
+### 🚀 Highlighted Projects
+* **Automated ETL Pipeline:** Developed a data processing pipeline using Python, SQL, and Pandas, improving efficiency by 30%.
+* **Financial Data Scraper:** Automated web scraping bot for financial data using Selenium.
+* **AI Assistant:** A Python-based interactive assistant.
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/farzan-iqbal-931799325/)
+* [Upwork](https://www.upwork.com/freelancers/~014d986dd339631f32)
